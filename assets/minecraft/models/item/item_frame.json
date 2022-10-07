@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/item_frame"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":839273}, "model": "item/crafter"},
+		{"predicate": {"custom_model_data":927492}, "model": "item/compressor"}
+	]
+}
