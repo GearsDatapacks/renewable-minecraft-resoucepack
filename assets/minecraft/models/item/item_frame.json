@@ -5,6 +5,7 @@
 	},
 	
 	"overrides": [
+	  {"predicate": {"custom_model_data":793723}, "model": "item/lava_transmitter"},
 		{"predicate": {"custom_model_data":839273}, "model": "item/crafter"},
 		{"predicate": {"custom_model_data":927492}, "model": "item/compressor"}
 	]
